@@ -47,3 +47,9 @@ Simply clone the repo and open the file:
 git clone [https://github.com/YOUR_USERNAME/homelease-landing.git](https://github.com/YOUR_USERNAME/homelease-landing.git)
 cd homelease-landing
 open index.html
+
+LicenseCopyright © 2026 homeLease Inc.Distributed under the MIT License.
+
+📬 ContactProject Link: https://github.com/YOUR_USERNAME/homelease-landing
+
+Built with ❤️ for flexible living.
