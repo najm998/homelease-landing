@@ -6,7 +6,7 @@
 
 The official landing page for **homeLease**, a modern mobile platform connecting tenants and hosts for flexible, short-to-medium-term living arrangements. 
 
-**[View Live Demo →](YOUR_VERCEL_URL_HERE)**
+**[View Live Demo →](https://drive.google.com/file/d/1E2MvUPt9VkW84BWIcnsqHR17GFC7vQmY/view?usp=sharing)**
 
 ---
 
