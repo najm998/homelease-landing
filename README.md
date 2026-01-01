@@ -43,6 +43,6 @@ The site is a lightweight, single-file static application (`index.html`), making
 
 LicenseCopyright © 2026 homeLease Inc.Distributed under the MIT License.
 
-📬 ContactProject Link: https://github.com/YOUR_USERNAME/homelease-landing
+📬 ContactProject Link: https://github.com/passimon/homelease-landing
 
 Built with ❤️ for flexible living.
